@@ -1,5 +1,8 @@
 ## Hi there 👋
+[texto de imagem](https://tse1.mm.bing.net/th/id/OIP.0toBm6dGtw_6EMD66sF33QHaEo?pid=Api&P=0&h=180)
+
 ![texto de imagem](https://tse1.mm.bing.net/th/id/OIP.0toBm6dGtw_6EMD66sF33QHaEo?pid=Api&P=0&h=180)
+
 
 <!--
 **roberto589/roberto589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
