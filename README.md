@@ -1,6 +1,12 @@
 ## Sejam bem-vindos !!
+![gif interface](github-interface.webp)
+------------------------
 
-![texto de imagem](![alt text](github-interface.webp))
+💬 Salve! Me chamo José Roberto Pereira
+
+📖 Sou formado em Analise e Desenvolvimento de Sistemas
+
+📮 [Acesse o meu linkedin](https://www.linkedin.com/in/jose-roberto-pereira-58418531b/)
 
 
 
